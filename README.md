@@ -80,7 +80,7 @@ If you'd like to add new features like hourly forecasts, weather alerts, or loca
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 💙 Made with Jetpack Compose and OpenWeatherMap API
-yaml
+
 
 
 
